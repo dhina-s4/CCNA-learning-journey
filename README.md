@@ -1,4 +1,4 @@
-# CCNA-learning-journey
+# CCNA-learning-journey Starting Date 15-03-2026
 
 This repository documents my preparation for the CCNA 200-301 certification.
 
@@ -20,7 +20,6 @@ Documentation Includes:
 - Daily learning logs
 
 Progress
-
 Day 1 - Network Devices
 
 
