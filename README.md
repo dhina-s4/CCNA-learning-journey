@@ -1,9 +1,13 @@
 # CCNA-learning-journey Starting Date 15-03-2026
 
-This repository documents my preparation for the CCNA 200-301 certification.
+# CCNA Certification Journey
+**Goal:** CompTIA Network+ → Cisco CCNA (200-301)  
+**Started:** April 2025  
+**Background:** Returning to IT after 5-year career gap
 
-Learning source:
-Jeremy's IT Lab
+This repository documents my preparation for the CCNA 200-301 certification.
+## Why I'm Documenting This
+I believe in showing work, not just claiming it...
 
 Goal:
 Build strong networking fundamentals and practical lab experience.
@@ -19,9 +23,3 @@ Documentation Includes:
 - Concept explanations
 - Daily learning logs
 
-Progress
-Day 1 - Network Devices
-
-
-Author:
-Dheena
