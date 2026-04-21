@@ -1,7 +1,7 @@
 # CCNA-learning-journey Starting Date 15-03-2026
 
 # CCNA Certification Journey
-**Goal:** CompTIA Network+ → Cisco CCNA (200-301)  
+**Goal:** Cisco CCNA (200-301)  
 **Started:** April 2025  
 **Background:** Returning to IT after 5-year career gap
 
