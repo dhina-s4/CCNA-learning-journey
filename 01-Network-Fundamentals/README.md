@@ -1,1 +1,13 @@
+Days
 1,2,3,4,12,30
+
+## My Learning Approach
+- Watched Jeremy’s IT Lab Day 1
+- Take Hand Written Notes
+- Practiced Anki Flash Cards
+- Built a simple Packet Tracer lab
+
+## Labs Included
+- Basic device connectivity lab
+**## I add my Hand written notes**
+
