@@ -8,16 +8,6 @@ Understanding how devices communicate in a network.
 - Basic OSI idea
 - Device roles in real-world networks
 
-## My Learning Approach
-- Watched Jeremy’s IT Lab Day 1
-- Take Hand Written Notes
-- Practiced Anki Flash Cards
-- Built a simple Packet Tracer lab
-
-## Labs Included
-- Basic device connectivity lab
-**## I add my Hand written notes**
-
 ## What is a Network?
 A network is a group of devices connected to share data and resources.
 A computer network is a digital telecommunication network which allows nodes to share resources.
