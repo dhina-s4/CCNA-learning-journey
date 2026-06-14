@@ -1,7 +1,7 @@
 TOPOLOGY
 
 
-
+<pre>
 [ New York Branch ]                                                                                    [ Tokyo Branch ]
                                                                                                                
   +-------+                                                                                                      +---------+
@@ -16,3 +16,5 @@ TOPOLOGY
                                                                   |  Laptop  |
                                                                   | Attacker |
                                                                   +----------+
+</pre>
+
