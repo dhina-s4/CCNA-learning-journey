@@ -8,6 +8,5 @@ Days
 - Built a simple Packet Tracer lab
 
 ## Labs Included
-- Basic device connectivity lab
 **## I add my Hand written notes**
 
