@@ -2,12 +2,10 @@ TOPOLOGY
 
 ### Visual Layout
 <p align="center">
-  <img src="01-Network-Fundamentals/Day01_Network-Devices/Lab & Topology/Network Device's connecting Topology.png" alt="Network Topology Screenshot" width="800">
+  <img src="Network Device's connecting Topology.png" alt="Network Topology Screenshot">
 </p>
-
-
-
 <pre>
+
 [ New York Branch ]                                                                                    [ Tokyo Branch ]
                                                                                                                
   +-------+                                                                                                      +---------+
