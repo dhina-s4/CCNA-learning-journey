@@ -1,1 +1,30 @@
+# Day 3 - TCP/IP Model and OSI
 
+## What problem does this solve?
+
+The TCP/IP model explains how data travels from one device to another across a network.
+
+## Topics Covered
+
+- Protocols and standards
+- IEEE and IETF
+- TCP/IP layers
+- Encapsulation
+- Decapsulation
+- Layer interactions
+
+## Lab Objective
+
+Use Packet Tracer simulation mode to observe how traffic moves through different layers.
+
+## Commands Used
+
+ipconfig
+
+ipconfig /release
+
+ipconfig /renew
+
+## Key Learning
+
+Every layer has a specific responsibility and works together to deliver data successfully.
