@@ -1,5 +1,3 @@
-TOPOLOGY
-
 ### Visual Layout
 <p align="center">
   <img src="Network Device's connecting Topology.png" alt="Network Topology Screenshot">
