@@ -14,4 +14,13 @@ Networks need layers and protocols to communicate.
 
 Day 4:
 learning how engineers control devices
+Networks need a management interface.
+
+Day 5
+Learning how switches deliver Ethernet traffic.
+Networks need Layer 2 switching and MAC addresses.
+
+Day 6
+Learning how devices find each other inside a LAN.
+Networks need ARP and ICMP to discover and verify communication.
 
